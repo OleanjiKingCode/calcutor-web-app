@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    color: #2C3E50;
+    font-family: montserrat;
+}
+h1{
+    width: 100%;
+}
+input,select {
+    padding: 15px;
+    margin: 0 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+button {
+    background-color: #2C3E50;
+    color: white;
+    padding: 15px ;
+    border: none;
+    border-radius: 10px;
+}
+
+.resultContainer{
+    color: white;
+    margin: 20px  auto;
+    align-self: center;
+    border-radius: 10px;
+    width: 10%;
+    padding: 20px;
+    font-size: 20px;
+    background-color: gray;
+}
+ 
